@@ -1,0 +1,91 @@
+[
+    {
+        "deal_id": "d01",
+        "name": {
+            "en": "Family Feast"
+        },
+        "description": {
+            "en": "2zinger Burgers + 1 Pizza + 4 Drinks at 20% OFF"
+        },
+        "discount_percent": 20,
+        "applicable_items": [
+            "ff01",
+            "ff05",
+            "pz01",
+            "pz02"
+        ],
+        "min_items": 4,
+        "active": true
+    },
+    {
+        "deal_id": "d02",
+        "name": {
+            "en": "Tea Time Special",
+            "ur": "چائے کا خاص وقت",
+            "ar": "عرض وقت الشاي"
+        },
+        "description": {
+            "en": "Buy 2 Teas, Get 1 Free",
+            "ur": "2 چائے خریدیں، 1 مفت پائیں",
+            "ar": "اشترِ 2 شاي واحصل على 1 مجاناً"
+        },
+        "discount_percent": 33,
+        "applicable_items": [
+            "te01",
+            "te02",
+            "te03",
+            "te04",
+            "te05"
+        ],
+        "min_items": 3,
+        "active": true
+    },
+    {
+        "deal_id": "d03",
+        "name": {
+            "en": "Pizza Combo",
+            "ur": "پیزا کومبو",
+            "ar": "كومبو البيتزا"
+        },
+        "description": {
+            "en": "Any Pizza + Ice Cream at 15% OFF",
+            "ur": "کوئی بھی پیزا + آئس کریم 15% رعایت پر",
+            "ar": "أي بيتزا + آيس كريم بخصم 15%"
+        },
+        "discount_percent": 15,
+        "applicable_items": [
+            "pz01",
+            "pz02",
+            "pz03",
+            "pz04",
+            "pz05",
+            "ic01",
+            "ic02",
+            "ic03",
+            "ic04",
+            "ic05"
+        ],
+        "min_items": 2,
+        "active": true
+    },
+    {
+        "deal_id": "d04",
+        "name": {
+            "en": "BBQ Night",
+            "ur": "بی بی کیو نائٹ",
+            "ar": "ليلة الباربيكيو"
+        },
+        "description": {
+            "en": "Mixed Grill + 2 Karak Teas at 10% OFF",
+            "ur": "مکسڈ گرل + 2 کڑک چائے 10% رعایت پر",
+            "ar": "مشاوي مشكلة + 2 شاي كرك بخصم 10%"
+        },
+        "discount_percent": 10,
+        "applicable_items": [
+            "mb04",
+            "te01"
+        ],
+        "min_items": 2,
+        "active": true
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "id": "fast_food",
+        "name": "Fast Food",
+        "icon": "🍔",
+        "description": "Burgers, Chicken, Fries & More",
+        "active": true,
+        "order": 1
+    },
+    {
+        "id": "pizza",
+        "name": "Pizza",
+        "icon": "🍕",
+        "description": "Freshly Baked Pizzas",
+        "active": true,
+        "order": 2
+    },
+    {
+        "id": "meat_bbq",
+        "name": "Meat & BBQ",
+        "icon": "🥩",
+        "description": "Grilled Steaks, Ribs & BBQ",
+        "active": true,
+        "order": 3
+    },
+    {
+        "id": "tea",
+        "name": "Tea",
+        "icon": "🍵",
+        "description": "Hot & Refreshing Teas",
+        "active": true,
+        "order": 4
+    },
+    {
+        "id": "ice_cream",
+        "name": "Ice Cream",
+        "icon": "🍨",
+        "description": "Cold & Creamy Desserts",
+        "active": true,
+        "order": 5
+    },
+    {
+        "id": "nn01",
+        "name": "naan",
+        "icon": "🍽️",
+        "description": "hot",
+        "active": true,
+        "order": 6
+    }
+]
